@@ -1,0 +1,21 @@
+.body{
+   background-color: black
+}
+
+.topBar{
+    border: 5px solid gold
+}
+
+#center{
+    color: blue
+}
+
+.pOne{
+    color: gold;
+    text-align: center;
+    background-color: white;
+    margin: 8%;
+    padding-right: 10em;
+    padding-left: 10em;
+    border-style: solid
+}
